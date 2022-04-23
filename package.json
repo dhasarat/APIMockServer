@@ -1,0 +1,21 @@
+{
+  "name": "APIMockServer",
+  "version": "1.0.0",
+  "description": "Mock Server with multiple data files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server ./fakeAPIs/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhasarat/APIMockServer.git"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Danish Hasarat",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
