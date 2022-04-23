@@ -1,6 +1,7 @@
 # APIMockServer
 
 **Install JSON-Server**
+
 npm install -g json-server
 
 **To install locally**
